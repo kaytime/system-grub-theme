@@ -1,4 +1,4 @@
-# kaytime GRUB Theme [![Build Status](https://travis-ci.org/kaytime/kaytime-grub.svg?branch=master)](https://travis-ci.org/kaytime/kaytime-grub)
+# kaytime GRUB Theme [![PackageCloud.](https://github.com/kaytime/system-grub-theme/actions/workflows/build.yml/badge.svg)](https://github.com/kaytime/system-grub-theme/actions/workflows/build.yml)
 
 This is the repository for the GRUB2 Theme used in Kaytime.
 
