@@ -1,12 +1,13 @@
-Source: grub2-theme-nitrux
+Source: system-grub-theme
 Section: main
 Priority: optional
-Maintainer: Uri Herrera <uri_herrera@nxos.org>
+Maintainer: Stephane Tsana <stephanetse@gmail.com>
 Build-Depends: debhelper (>=9)
 Standards-Version: 3.9.6
+Homepage: https://kaytime.github.io
 
-Package: grub2-theme-nitrux
+Package: system-grub-theme
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}, grub-common
-Description: GRand Unified Bootloader, version 2 (Nitrux theme)
+Description: GRand Unified Bootloader, version 2 (Kaytime OS theme)
  This is the default theme for GRUB's graphical menu.
