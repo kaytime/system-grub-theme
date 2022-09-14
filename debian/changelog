@@ -1,4 +1,4 @@
-system-grub-theme (0.1.0)  kaytime; urgency=high
+system-grub-theme (0.1.0+alpha)  kaytime; urgency=high
 
   * Create package
 
